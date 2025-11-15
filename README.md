@@ -57,6 +57,7 @@ Kamu bisa memilih gambar lewat dua cara:
 
 
 🖼️ Menggunakan Galeri
+
 1.Tekan tombol Galeri
 
 2.Pilih gambar dari penyimpanan HP
