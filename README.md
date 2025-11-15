@@ -73,18 +73,25 @@ Kamu bisa memilih gambar lewat dua cara:
 
 
 4️⃣ Mengirim Gambar untuk Diprediksi
+
 Setelah memilih gambar:
+
 1.Tekan tombol Kirim (Aplikasi akan memproses gambar melalui model TFLite)
+
 Hasil prediksi muncul di bagian bawah, contoh:
 
+
 Hasil: Kucing
+
 ![WhatsApp Image 2025-11-15 at 14 46 05_515c58ed](https://github.com/user-attachments/assets/26e15fa0-a997-4818-9ee4-366f3c28d7c8)
 
 
 
 
 Hasil: Anjing
+
 ![WhatsApp Image 2025-11-15 at 14 46 02_43c8dbc4](https://github.com/user-attachments/assets/e14dce6b-782f-4e33-bada-f7fa6cdaa7a8)
+
 
 
 
